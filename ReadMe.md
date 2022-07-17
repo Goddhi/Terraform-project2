@@ -1,0 +1,1 @@
+A simple web app with network resources  created with Terraform
